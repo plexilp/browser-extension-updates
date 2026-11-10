@@ -1,0 +1,13 @@
+{
+  "extensions": {
+    "better-ramp": {
+      "version": "0.3.0",
+      "url": "https://github.com/plexilp/BetterRamp",
+      "notes": [
+        "Days per Week: Umrechnung von Stunden in Tage in der Planning-Board-Ansicht",
+        "Neue Option zum Aktivieren/Deaktivieren von Days per Week in den Einstellungen",
+        "Neues Extension-Icon"
+      ]
+    }
+  }
+}
